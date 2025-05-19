@@ -1,0 +1,24 @@
+{
+  "name": "devops-lab-web-app",
+  "version": "1.0.0",
+  "description": "Aplicação Web para o LAB DevOps - Docker 6",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.0",
+    "@mui/material": "^7.1.0",
+    "@mui/styles": "^6.4.11",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "next": "^13.4.10",
+    "pg": "^8.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.30.0",
+    "sweetalert2": "^11.21.2"
+  }
+}
